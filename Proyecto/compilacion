@@ -1,1 +1,0 @@
-gcc -Wall -g -o programa collection.c comandproces.c configuration_file.c input_program.c inputparam.c item.c main.c menu.c node.c saucem_ops.c senhal.c util_files.c prints.c directorio.o bmp_ops.c persistence.c^C
